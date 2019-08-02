@@ -1,0 +1,5 @@
+com/websocket/chat/ChatMessage$MessageType.class
+com/websocket/chat/Application.class
+com/websocket/chat/ChatController.class
+com/websocket/chat/ChatMessage.class
+com/websocket/chat/WebSocketConfig.class
